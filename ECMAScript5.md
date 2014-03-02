@@ -3,7 +3,7 @@
 描述：
 本文档针对ECMAScript5扩展Array、String、Date、Function、Object、JSON的内容进行介绍
 提纲：
-![outline](http://10.10.52.199/hanwang203994/docs/raw/master/img/ECMAScript5_mmd.jpeg)
+![outline](https://raw.github.com/WangHan203994/docs/master/img/ECMAScript5_mmd.jpeg)
 
 # [Array]() #
 ---
